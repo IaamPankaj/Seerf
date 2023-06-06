@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_scanner"
+        android:title="@string/scan"
+        android:icon="@drawable/ic_qr_code"
+        />
+
+    <item android:id="@+id/scanHistoryFragment"
+        android:title="@string/recent_scanned"
+        android:icon="@drawable/ic_history_blue_24dp"
+        />
+
+    <item android:id="@+id/nav_admin"
+        android:title="@string/admin"
+        android:icon="@drawable/ic_baseline_person_4_24"
+
+        />
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176903583461",
+    "project_id": "seerf-qr",
+    "storage_bucket": "seerf-qr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176903583461:android:c2f7e10d7f1361aded460c",
+        "android_client_info": {
+          "package_name": "com.example.seerfqr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176903583461-drjhgp0gfnnk4gohmc8s1qqb0bssvm7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAperc2Rqht6Nk5PeXk-LE0ZE0Fpt4Oiz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176903583461-drjhgp0gfnnk4gohmc8s1qqb0bssvm7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
